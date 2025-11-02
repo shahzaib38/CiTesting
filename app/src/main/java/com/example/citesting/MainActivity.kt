@@ -25,8 +25,8 @@ class MainActivity : ComponentActivity() {
                         modifier = Modifier.padding(innerPadding)
                     )
 
-                    println("CiTesting")
-                    println("CiTesting2")
+
+                    println("Testing1")
 
 
 
