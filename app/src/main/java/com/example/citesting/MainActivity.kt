@@ -26,12 +26,7 @@ class MainActivity : ComponentActivity() {
                     )
 
 
-                    println("Testing21")
-
-
-
-
-
+                    println("Testing22")
 
                 }
             }
